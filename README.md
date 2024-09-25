@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kushagra Garg and I'm a MERN Stack Developer</h2>
+[<h2 align="left">Hi 👋! My name is Kushagra Garg and I'm a MERN Stack Developer</h2>](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I%27m+Kushagra+Garg;Welcome+to+my+profile!)
 
 ###
 
@@ -48,15 +48,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/javastar-kush/javastar-kush/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
 
 ###
