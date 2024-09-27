@@ -6,14 +6,14 @@
 
 ###
 
+<img align="center" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VucDc0ZW1saXB4ZzY4ajhpOWUyY2toYTlyYnZhdDh5N2x2ZmcycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  />
+
+###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=javastar-kush&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=javastar-kush&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VucDc0ZW1saXB4ZzY4ajhpOWUyY2toYTlyYnZhdDh5N2x2ZmcycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  />
 
 ###
 
